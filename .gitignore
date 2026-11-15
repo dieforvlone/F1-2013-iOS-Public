@@ -1,0 +1,13 @@
+# Game files and anything extracted from them never belong in this repo.
+*.xex
+*.iso
+*.god
+*.stfs
+game/
+assets/
+generated/
+# Build output
+out/
+build/
+*.ipa
+.DS_Store
